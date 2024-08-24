@@ -1,4 +1,7 @@
 Hello! We Are The Creators Of Ravencraft!
+
+Check out the launcher at: https://ravetek.github.io/ravelauncher/
+
 The Current Versions Being Worked On Are:
 ////////////////////////////////////////////////////////////////////////
 Revival Of Eagler 1.14 (In Develop Stage)
@@ -14,3 +17,5 @@ And check us out on Planet Minecraft! : https://planetminecraft.com/members/@tc_
 And check us out on Scratch Coding! : https://scratch.mit.edu/studios/35544958
 
 ////////////////////////////////////////////////////////////////////////
+
+
