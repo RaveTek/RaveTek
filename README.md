@@ -9,9 +9,9 @@ Check out the launcher at: https://ravetek.github.io/ravelauncher/
 
 The Current Versions Being Worked On Are:
 ////////////////////////////////////////////////////////////////////////
-Revival Of Eagler 1.14 (In Develop Stage)
+Eagler 1.14 (Done!)
 Ravencraft 1.19 Desktop Runtime (Just In The .minecraft Versions Folder)
-Klockcraft 1.20 Revival (Not Appeared Yet - Still finding a way to put python in the browser)
+Klockcraft 1.20 Revival (Has Appeared And Porting More And More Python To The Browser Each Minute!)
 And klockcraft 1.11.2 (definately not finished yet)
 ////////////////////////////////////////////////////////////////////////
 
