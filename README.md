@@ -1,5 +1,8 @@
-New Project: Eaglercraft 1.20!
-
+New Project: Eaglercraft 1.16.5!
+Old Project: Eagler 1.14 DESKTOP RUNTIME! Deleted because people think it was copied. I got it from archive.org, as portable minecraft 1.14. Then, i edited it. 
+NOTICE:
+I can not run MCP because gradle can not run its' clean tasks.
+Some people think that I copied from things. So I deleted some repos that w/m be copied.
 
 
 Eagler 1.14 Is In Debug Stage!
